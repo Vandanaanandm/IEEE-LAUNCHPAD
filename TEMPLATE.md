@@ -1,59 +1,35 @@
-# Full Name 
+# Vandana Anand M 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> second year MSc computer science student at St.joseph's college,irinjalakuda.acquired skills like c,java,python,sql,html. interested in web development and have hands on experience in web development using django framework. currently exploring various machine learning projects by learning and working on different training algorithms.Eager to utilize my skills and knowledge in real time projects and excited to start my professional carrier.
 
 
 ## Portfolio Highlights
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               |    
+|---------------------|---------------------------------------------------------------------------|
+| **herb detect**     | herb detect is a machine learning based project to identify medicinal plants from their leaf images using django framework                                         | 
+| **drowsiness detection system**  | iot based system to detect drowsiness in drivers and give them an alert using arudino                                             |            
 
-#### Leadership and Influence:
-
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking:
-
-- explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+use platforms like linked in to connect with others who have similar interest in the fields. i always like to share my knowledge with others and also try to utilise oportunities where i can learn new things from others.
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+master new skills in machine learning and web development.pursue internships in related fields. enter in to professional carrier that halps me strengthen my knowledge and give me platform to showcase my skills.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+Kerala's tech ecosystem has been steadily growing in recent years.Government initiatives have played a crucial role in fostering startup culture by providing support, funding, and infrastructure for aspiring entrepreneurs.
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
+
+>> check out [vandanaanandm@mulearn.md](./profiles/vandanaanandm@mulearn.md) 
 
 ---
 
